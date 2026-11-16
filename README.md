@@ -57,4 +57,5 @@ uv run python -m jupyterlab --no-browser
 - [x] W1-1 六项必装软件就位（uv / Python 3.12 / VS Code / Git / Windows Terminal / 7-Zip）
 - [x] W1-2 项目初始化与依赖安装
 - [x] W1-3 首次提交
-- [ ] W1-4 推送至 GitHub
+- [x] W1-4 推送至 GitHub
+- [x] W1-4 推送至 GitHub
